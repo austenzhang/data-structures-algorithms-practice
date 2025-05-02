@@ -27,5 +27,3 @@ Welcome to my problem-solving journal! This repository tracks my journey to mast
 
 _(Updated: [April 30, 2025])_
 
-## 🗂️ Directory Structure
-
