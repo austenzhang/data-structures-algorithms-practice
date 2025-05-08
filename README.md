@@ -9,7 +9,7 @@ Welcome to my problem-solving journal! This repository tracks my journey to mast
 - Improve my coding speed, readability, and problem-solving skills.
 - Build long-term confidence for interviews and system design.
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Languages**: Python (primary), Java, C#
 - **Platform**: [My LeetCode Profile](https://leetcode.com/u/austenzhang/)
