@@ -22,7 +22,7 @@ Welcome to my problem-solving journal! This repository tracks my journey to mast
 |------------------|-----------|
 | Easy | ✅ 40     |
 | Medium | ✅ 36     |
-| Hard | ✅ 0     |
+| Hard | ✅ 1     |
 | Total             | ✅ 77     |
 
 _(Updated: [May 8, 2025])_
