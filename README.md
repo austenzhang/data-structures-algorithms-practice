@@ -20,10 +20,10 @@ Welcome to my problem-solving journal! This repository tracks my journey to mast
 
 | Leetcode Difficulty          | Completed |
 |------------------|-----------|
-| Easy | ✅ 40     |
-| Medium | ✅ 39     |
+| Easy | ✅ 45     |
+| Medium | ✅ 43     |
 | Hard | ✅ 2     |
-| Total             | ✅ 81     |
+| Total             | ✅ 90     |
 
-_(Updated: [May 9, 2025])_
+_(Updated: [May 13, 2025])_
 
